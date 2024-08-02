@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.l": "lex",
+        "tm4c123gh6pm_registers.h": "c"
+    }
+}
