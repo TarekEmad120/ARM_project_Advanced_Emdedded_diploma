@@ -1,9 +1,15 @@
-/*
- * SYSTICK.h
+/******************************************************************************
  *
- *  Created on: Jul 26, 2024
- *      Author: Tarek Emad
- */
+ * Module: SYSTICK
+ *
+ * File Name: SYSTICK.h
+ *
+ * Description: Header file for the ARM Cortex M4 SYSTICK driver
+ *
+ * Author: Tarek Emad
+ *
+ *******************************************************************************/
+
 
 #ifndef SYSTICK_H_
 #define SYSTICK_H_

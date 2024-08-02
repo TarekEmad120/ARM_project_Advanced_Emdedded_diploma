@@ -6,7 +6,7 @@
  *
  * Description: Header file for the ARM Cortex M4 NVIC driver
  *
- * Author: Mohamed Tarek (Edges For Training)
+ * Author: Tarek Emad
  *
  *******************************************************************************/
 
@@ -86,10 +86,6 @@ typedef enum
 }NVIC_ExceptionType;
 
 typedef uint8 NVIC_ExceptionPriorityType;
-
-
-
-
 
 /*******************************************************************************
  *                           Functions prototypes                              *
